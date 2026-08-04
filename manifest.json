@@ -1,0 +1,17 @@
+{
+  "name": "Chemini",
+  "short_name": "Chemini",
+  "description": "Tu IA educativa de confianza",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001F3F",
+  "theme_color": "#001F3F"
+}
